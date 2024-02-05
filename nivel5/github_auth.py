@@ -18,7 +18,7 @@ token = parser.xpath('//input[@name="authenticity_token"]/text()')
 
 login_data = {
   'login': 'jafet5757',
-  'password': 'YxgN14FE62',
+  'password': '',
   'commit': 'Sign in',
   'authenticity_token': token
 }
