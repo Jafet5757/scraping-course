@@ -1,0 +1,350 @@
+descripcion,id,pregunta
+"
+                When an entry has focus and the keyboard is shown, when i then open the flyoutpage by clicking the burger icon on the top left, the keyboard remains open.
+I would like the keyboard to close when i ...
+            ",[0],net maui hide keyboard when flyoutpage is shown
+,[1],
+,[2],
+,[3],
+,[4],
+"
+                When an entry has focus and the keyboard is shown, when i then open the flyoutpage by clicking the burger icon on the top left, the keyboard remains open.
+I would like the keyboard to close when i ...
+            ",[5],net maui hide keyboard when flyoutpage is shown
+,[6],
+,[7],
+,[8],
+"
+                I'm trying to implement a simple algorithm in PBI, at the end of which I need to calculate a cumulative sum (running total) of a measure (evaluated in memory as I understand it, not in the underlying ...
+            ",[9],Cumulative sum (running total) on a measure in DAX is equal to zero
+,[10],
+,[11],
+,[12],
+,[13],
+"
+                I'm trying to implement a simple algorithm in PBI, at the end of which I need to calculate a cumulative sum (running total) of a measure (evaluated in memory as I understand it, not in the underlying ...
+            ",[14],Cumulative sum (running total) on a measure in DAX is equal to zero
+,[15],
+,[16],
+,[17],
+"
+                I am reading Sobell's A Practical Guide to Linux Commands, Editors, and Shell Programming, 4e. Early on he talks about the . and .. and says that they are ""synonymous with the pathnames"" of ...
+            ",[18],How does resolution of .. and . proceed in Linux systems?
+,[19],
+,[20],
+,[21],
+,[22],
+"
+                I am reading Sobell's A Practical Guide to Linux Commands, Editors, and Shell Programming, 4e. Early on he talks about the . and .. and says that they are ""synonymous with the pathnames"" of ...
+            ",[23],How does resolution of .. and . proceed in Linux systems?
+,[24],
+,[25],
+,[26],
+"
+                VS 2019 - MVC C# .NET 5 - RE: Tuple
+First comment is - Learning MVC and TUPLE comming from a VB.NET history!
+Question: When I pass from the Controller back to the View a 4-Tuple, do I need to update ...
+            ",[27],Issues with using 4-Tuple on MVC project
+,[28],
+,[29],
+,[30],
+,[31],
+"
+                VS 2019 - MVC C# .NET 5 - RE: Tuple
+First comment is - Learning MVC and TUPLE comming from a VB.NET history!
+Question: When I pass from the Controller back to the View a 4-Tuple, do I need to update ...
+            ",[32],Issues with using 4-Tuple on MVC project
+,[33],
+,[34],
+,[35],
+"
+                As I said, I'm creating a type of sales banner, and I need some information on this banner, my CourseDescription, which is a component that brings all the course information, and my BuyCourseCard, ...
+            ",[36],"Im creating a ""sales banner on react using grid and makStyles, but my card and the other description card are not next to each other"
+,[37],
+,[38],
+,[39],
+,[40],
+"
+                As I said, I'm creating a type of sales banner, and I need some information on this banner, my CourseDescription, which is a component that brings all the course information, and my BuyCourseCard, ...
+            ",[41],"Im creating a ""sales banner on react using grid and makStyles, but my card and the other description card are not next to each other"
+,[42],
+,[43],
+,[44],
+"
+                below if the github yml file i'm using, so basically i'm trying to create a local db so i can my unit tests but somehow i'm getting a 1045 error.  i've tried already using a no password but still ...
+            ",[45],"Github Action, getting ERROR 1045 (28000): Access denied for user 'user'@'localhost' (using password: YES)"
+,[46],
+,[47],
+,[48],
+,[49],
+"
+                below if the github yml file i'm using, so basically i'm trying to create a local db so i can my unit tests but somehow i'm getting a 1045 error.  i've tried already using a no password but still ...
+            ",[50],"Github Action, getting ERROR 1045 (28000): Access denied for user 'user'@'localhost' (using password: YES)"
+,[51],
+,[52],
+,[53],
+"
+                I am computing Jina v2 embeddings via the transformers Python libraries and via their API (see https://jina.ai/embeddings/).
+With transformers I can run something like
+from transformers import ...
+            ",[54],Why does local inference differ from the API when computing Jina embeddings?
+,[55],
+,[56],
+,[57],
+,[58],
+"
+                I am computing Jina v2 embeddings via the transformers Python libraries and via their API (see https://jina.ai/embeddings/).
+With transformers I can run something like
+from transformers import ...
+            ",[59],Why does local inference differ from the API when computing Jina embeddings?
+,[60],
+,[61],
+,[62],
+"
+                I am trying to make a wrapper for C++ to always enforce x app is using dedicated graphics. The issue is I can't figure out how to force Dedicated graphics (Discrete) GPU on Intel Arc. Here is the code ...
+            ",[63],Intel Arc Force Dedicated Graphic
+,[64],
+,[65],
+,[66],
+,[67],
+"
+                I am trying to make a wrapper for C++ to always enforce x app is using dedicated graphics. The issue is I can't figure out how to force Dedicated graphics (Discrete) GPU on Intel Arc. Here is the code ...
+            ",[68],Intel Arc Force Dedicated Graphic
+,[69],
+,[70],
+,[71],
+"
+                I can find the PublishModel and PublishModelWithoutLinks features in the Commands Endpoint of the Data Management V2 API, but I was hoping someone would be able to show me where we can setup Scheduled ...
+            ",[72],Set Automatic Model Publishing - Data Management API
+,[73],
+,[74],
+,[75],
+,[76],
+"
+                I can find the PublishModel and PublishModelWithoutLinks features in the Commands Endpoint of the Data Management V2 API, but I was hoping someone would be able to show me where we can setup Scheduled ...
+            ",[77],Set Automatic Model Publishing - Data Management API
+,[78],
+,[79],
+,[80],
+"
+                I need a way to display an editable textarea as part of a larger object. This textarea needs to be resizeable, be able to show both bolded and italic text, and also be able to parse values from ...
+            ",[81],How to create an editable textarea field in React JS with options for bold and italics which can parse/save embedded tags in the string
+,[82],
+,[83],
+,[84],
+,[85],
+"
+                I need a way to display an editable textarea as part of a larger object. This textarea needs to be resizeable, be able to show both bolded and italic text, and also be able to parse values from ...
+            ",[86],How to create an editable textarea field in React JS with options for bold and italics which can parse/save embedded tags in the string
+,[87],
+,[88],
+,[89],
+"
+                In this dataset I'm working with, there should be a GPS point taken every hour. Sometimes that doesn't happen. For instance, if a point is taken at 7:35:00, and then at 9:35:50, that's missing a point ...
+            ",[90],Setting NAs based on time-series gaps
+,[91],
+,[92],
+,[93],
+,[94],
+"
+                In this dataset I'm working with, there should be a GPS point taken every hour. Sometimes that doesn't happen. For instance, if a point is taken at 7:35:00, and then at 9:35:50, that's missing a point ...
+            ",[95],Setting NAs based on time-series gaps
+,[96],
+,[97],
+,[98],
+"
+                Problem
+I'm trying to send GA4 events from an application that only has voice UI - there is no html file - thus no where to inject the necessary scripts to install GA4, as per the Google install ...
+            ",[99],Using GA4 server-side to get the client_id without an html file (server-side)
+,[100],
+,[101],
+,[102],
+,[103],
+"
+                Problem
+I'm trying to send GA4 events from an application that only has voice UI - there is no html file - thus no where to inject the necessary scripts to install GA4, as per the Google install ...
+            ",[104],Using GA4 server-side to get the client_id without an html file (server-side)
+,[105],
+,[106],
+,[107],
+"
+                Context: I'm using prisma ORM with typescript. I'm applying a repository pattern abstraction such that I have an interface 'IRepository', and an impure abstract class 'BaseRepository' which implements ...
+            ",[108],how to achieve model-specific type inference from prisma model without explicitly passing the index string to PrismaClient object?
+,[109],
+,[110],
+,[111],
+,[112],
+"
+                Context: I'm using prisma ORM with typescript. I'm applying a repository pattern abstraction such that I have an interface 'IRepository', and an impure abstract class 'BaseRepository' which implements ...
+            ",[113],how to achieve model-specific type inference from prisma model without explicitly passing the index string to PrismaClient object?
+,[114],
+,[115],
+,[116],
+"
+                - n_cols (int, optional): Number of expected columns in the DataFrame.
+- n_rows (tuple, optional): Tuple (min_rows, max_rows) specifying the expected range of rows.
+- columns (list, optional): List of ...
+            ",[117],I need a function that performs the following validations on a Python dataframe [closed]
+,[118],
+,[119],
+,[120],
+,[121],
+"
+                - n_cols (int, optional): Number of expected columns in the DataFrame.
+- n_rows (tuple, optional): Tuple (min_rows, max_rows) specifying the expected range of rows.
+- columns (list, optional): List of ...
+            ",[122],I need a function that performs the following validations on a Python dataframe [closed]
+,[123],
+,[124],
+,[125],
+"
+                As Facebook deleted the location quick reply button how can i ask the user for a location in a messenger bot.
+Facebook responds about the deletion of location share request but does not provide an ...
+            ",[126],facebook messenger bot to ask for a location 2024
+,[127],
+,[128],
+,[129],
+,[130],
+"
+                As Facebook deleted the location quick reply button how can i ask the user for a location in a messenger bot.
+Facebook responds about the deletion of location share request but does not provide an ...
+            ",[131],facebook messenger bot to ask for a location 2024
+,[132],
+,[133],
+,[134],
+descripcion,id,pregunta
+,[0],problems in a simulation study for a linear mixed model
+,[1],
+,[2],
+,[3],
+,[4],
+,[5],problems in a simulation study for a linear mixed model
+,[6],
+,[7],
+,[8],
+,[9],net maui hide keyboard when flyoutpage is shown
+,[10],
+,[11],
+,[12],
+,[13],
+,[14],net maui hide keyboard when flyoutpage is shown
+,[15],
+,[16],
+,[17],
+,[18],Cumulative sum (running total) on a measure in DAX is equal to zero
+,[19],
+,[20],
+,[21],
+,[22],
+,[23],Cumulative sum (running total) on a measure in DAX is equal to zero
+,[24],
+,[25],
+,[26],
+,[27],How does resolution of .. and . proceed in Linux systems?
+,[28],
+,[29],
+,[30],
+,[31],
+,[32],How does resolution of .. and . proceed in Linux systems?
+,[33],
+,[34],
+,[35],
+,[36],Issues with using 4-Tuple on MVC project
+,[37],
+,[38],
+,[39],
+,[40],
+,[41],Issues with using 4-Tuple on MVC project
+,[42],
+,[43],
+,[44],
+,[45],"Im creating a ""sales banner on react using grid and makStyles, but my card and the other description card are not next to each other"
+,[46],
+,[47],
+,[48],
+,[49],
+,[50],"Im creating a ""sales banner on react using grid and makStyles, but my card and the other description card are not next to each other"
+,[51],
+,[52],
+,[53],
+,[54],"Github Action, getting ERROR 1045 (28000): Access denied for user 'user'@'localhost' (using password: YES)"
+,[55],
+,[56],
+,[57],
+,[58],
+,[59],"Github Action, getting ERROR 1045 (28000): Access denied for user 'user'@'localhost' (using password: YES)"
+,[60],
+,[61],
+,[62],
+,[63],Why does local inference differ from the API when computing Jina embeddings?
+,[64],
+,[65],
+,[66],
+,[67],
+,[68],Why does local inference differ from the API when computing Jina embeddings?
+,[69],
+,[70],
+,[71],
+,[72],Intel Arc Force Dedicated Graphic
+,[73],
+,[74],
+,[75],
+,[76],
+,[77],Intel Arc Force Dedicated Graphic
+,[78],
+,[79],
+,[80],
+,[81],Set Automatic Model Publishing - Data Management API
+,[82],
+,[83],
+,[84],
+,[85],
+,[86],Set Automatic Model Publishing - Data Management API
+,[87],
+,[88],
+,[89],
+,[90],How to create an editable textarea field in React JS with options for bold and italics which can parse/save embedded tags in the string
+,[91],
+,[92],
+,[93],
+,[94],
+,[95],How to create an editable textarea field in React JS with options for bold and italics which can parse/save embedded tags in the string
+,[96],
+,[97],
+,[98],
+,[99],Setting NAs based on time-series gaps
+,[100],
+,[101],
+,[102],
+,[103],
+,[104],Setting NAs based on time-series gaps
+,[105],
+,[106],
+,[107],
+,[108],Using GA4 server-side to get the client_id without an html file (server-side)
+,[109],
+,[110],
+,[111],
+,[112],
+,[113],Using GA4 server-side to get the client_id without an html file (server-side)
+,[114],
+,[115],
+,[116],
+,[117],how to achieve model-specific type inference from prisma model without explicitly passing the index string to PrismaClient object?
+,[118],
+,[119],
+,[120],
+,[121],
+,[122],how to achieve model-specific type inference from prisma model without explicitly passing the index string to PrismaClient object?
+,[123],
+,[124],
+,[125],
+,[126],I need a function that performs the following validations on a Python dataframe [closed]
+,[127],
+,[128],
+,[129],
+,[130],
+,[131],I need a function that performs the following validations on a Python dataframe [closed]
+,[132],
+,[133],
+,[134],
