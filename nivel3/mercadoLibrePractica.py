@@ -9,11 +9,19 @@ from selenium.webdriver.chrome.options import Options
 from webdriver_manager.chrome import ChromeDriverManager
 import pandas as pd
 
+import requests
+import io
+from PIL import Image
+
 # Parametros de scraping
-PRODUCT = 'balones futbol'
-NAME_FILE = 'balones.csv'
-MAX_PAGES = 10
+PRODUCT = 'minecraft lamparas'
+NAME_FILE = 'minecraft.csv'
+MAX_PAGES = 2
 objects_finded = []
+
+headers = {
+    "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36",
+}
 
 
 # Mientras mas escrolls llevo dando, mas pixeles voy bajando
@@ -64,6 +72,8 @@ while pages_counter < MAX_PAGES:
   articles = WebDriverWait(driver, 10).until(
     EC.presence_of_all_elements_located((By.XPATH, '//ol//li[@class="ui-search-layout__item"]'))
   )
+  i = 0
+
 
   for article in articles:
     title = article.find_element(By.XPATH, './/h2').text
@@ -75,6 +85,23 @@ while pages_counter < MAX_PAGES:
     except:
       rating = '-'
 
+    # Extraemos la imagenes
+    try:
+      # La primer imagen que ecuentre en el articulo
+      img = article.find_element(By.XPATH, './/img')
+      url = img.get_attribute('src')
+      # Hacemos la peticion de la imagen
+      img_body = requests.get(url, headers=headers).content
+      # Preparamos y guardamos la imagen
+      img_file = io.BytesIO(img_body)
+      img = Image.open(img_file).convert('RGB')
+      file_path = f'./img/{str(i)}.jpg'
+      i +=1 
+      with open(file_path, 'wb') as f:
+        img.save(f, 'JPEG', quality=85)
+      print('image downloaded')
+    except Exception as e:
+      print(e)
     objects_finded.append({
       'title': title,
       'price': price,
